@@ -9,5 +9,5 @@ console.log(roastGiven);
 1. Loop variable
 2. condition in side the while loop
 3. Loop body
-4. Change loop variable condition
+4. Change loop variable
 */
